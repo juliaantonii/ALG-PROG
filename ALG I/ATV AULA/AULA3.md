@@ -59,6 +59,11 @@
    - [Exercício 14 - Aumento Salarial de Funcionário](<AULA 3/ex14.c>) ;
    - [Exercício 15 - Cálculo de Peso em Outro Planeta](<AULA 3/ex15.c>) ;
    - [Exercício 16 - Execução de Operações Diversas](<AULA 3/ex16.c>) .
-   
-6. **Recursos Adicionais:**
-   - Links para recursos adicionais, como documentação, tutoriais e vídeos, para expandir o entendimento sobre estruturas de decisão.
+
+&nbsp;
+
+<div align="center">
+
+![cat dancin](<../../Images/cat dancing.gif>)
+
+</div>
