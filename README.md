@@ -13,7 +13,7 @@ Neste repositório, você encontrará uma variedade de exercícios resolvidos e 
 - **Exercícios Resolvidos**: Uma coleção de problemas de programação resolvidos em C, cada um com uma breve descrição do problema e sua solução correspondente.
   
   - **ATIVIDADES EM AULA:** 
-    - [**AULA 3 - Estruturas de Decisão Simples e Composta ;**](<ALG I/ATV AULA/AULA 3>)
+    - [**AULA 3 - Estruturas de Decisão Simples e Composta ;**](<ALG I/ATV AULA/AULA3.md>)
     - **AULA 4 - Estruturas de Decisão Múltipla Escolha ;**
     - **AULA 5 - Estruturas de Repetição .**
   - **ATIVIDADES PRÁTICAS (TAREFAS):**
