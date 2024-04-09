@@ -35,7 +35,7 @@ Também é possível encontrar uma coleção de problemas de programação resol
 
 
 - **LISTA DE EXERCÍCIO:**
-  - **LISTA 1 - Algoritmos Sequenciais ;**
+  - [**LISTA 1 - Algoritmos Sequenciais ;**](<ALG I/LIST EX/LIST1.md>)
   - **LISTA 2 - Estruturas de Decisão ;**
 
 ## Como Contribuir
